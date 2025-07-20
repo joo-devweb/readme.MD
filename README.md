@@ -1,37 +1,53 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </p>
 
-> ### <p align="center">Greetings! I'm Jonathan R.A.C. 👋</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Halo! Saya Jonathan R.A.C. 🇮🇩</h1></summary>
+  </ul>
+</div>
+
 <p align="center">
-  A young and driven developer from the vibrant city of <b>Palembang, Indonesia</b>.
-  <br>
-  My journey into code began with a simple curiosity that blossomed into a passion for digital creation and problem-solving.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=435&lines=Full-Stack+Developer+Masa+Depan;Penggila+Teknologi+%26+AI;Pembelajar+Seumur+Hidup" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-> ### <p align="center">📜 About My Journey</p>
+> ### <p align="center">📬 Mari Terhubung!</p>
 <p align="center">
-  I'm currently a 17-year-old student sharpening my skills in <b>Rekayasa Perangkat Lunak (Software Engineering)</b> at <b>SMK Tunas Harapan Palembang</b>. I thrive on turning complex problems into elegant and functional web applications. My primary focus is the JavaScript ecosystem, where I build responsive user interfaces with <b>React</b> and robust server-side logic with <b>Node.js</b>. Beyond that, I'm captivated by the potential of <b>Artificial Intelligence</b> to shape our future.
+  <a href="https://wa.me/62895416602000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://instagram.com/chrisjoo_uww" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/ryujooxml" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="mailto:jojorevanaldi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+> ### <p align="center">👨‍💻 Tentang Saya & Filosofi Koding</p>
+<p align="center">
+  Saya adalah seorang pengembang perangkat lunak berusia 17 tahun dari <b>Palembang</b>, dengan semangat besar untuk membangun solusi digital yang inovatif. Perjalanan saya dimulai dari rasa penasaran sederhana, yang kini telah berevolusi menjadi sebuah misi untuk menciptakan teknologi yang fungsional, indah, dan berdampak positif. Saat ini, saya memperdalam ilmu di jurusan <b>Rekayasa Perangkat Lunak</b> di <b>SMK Tunas Harapan Palembang</b>.
   <br><br>
-  <i>"I believe that code is more than just instructions; it's a powerful tool for creativity, innovation, and positive change."</i>
+  Bagi saya, <i>"koding bukan hanya tentang menulis instruksi, melainkan tentang merangkai logika menjadi sebuah seni yang dapat memecahkan masalah nyata."</i> Saya percaya pada kekuatan kolaborasi, pembelajaran berkelanjutan, dan dedikasi untuk selalu menghasilkan karya terbaik.
 </p>
 
 ---
 
-> ### <p align="center">🚀 My Featured Projects</p>
+> ### <p align="center">🚀 Proyek Unggulan</p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Personal Portfolio</h3>
-      <p>A personal website designed to be my digital resume, showcasing my skills, projects, and professional journey. Built from scratch to be fast, responsive, and visually appealing.</p>
-      <b>Tech Used:</b><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> 
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <br><br>
+      <h3 align="center">🌐 Portofolio Pribadi</h3>
+      <p align="center">Sebuah etalase digital yang merangkum perjalanan, keahlian, dan proyek-proyek saya. Didesain dengan antarmuka yang modern dan pengalaman pengguna yang responsif.</p>
       <p align="center">
         <a href="https://portofolio-nathan.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
@@ -39,13 +55,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Playground</h3>
-      <p>An experimental platform where I explore and implement various Artificial Intelligence models and APIs. This project serves as my playground for understanding the capabilities of modern AI.</p>
-      <b>Tech Used:</b><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-      <br><br>
+      <h3 align="center">🤖 Arena Eksperimen AI</h3>
+      <p align="center">Platform pribadi tempat saya bereksperimen dengan berbagai model dan API Kecerdasan Buatan. Proyek ini adalah taman bermain saya untuk memahami batas-batas AI modern.</p>
       <p align="center">
         <a href="https://ai-nathan.vervel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel">
@@ -57,37 +68,23 @@
 
 ---
 
-> ### <p align="center">🛠️ My Toolkit & Technologies</p>
+> ### <p align="center">🛠️ Toolkit & Teknologi</p>
 
-<table width="100%">
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Others</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nextjs,nodejs,express,html,css,tailwind,vite,vercel,git" />
+  </a>
+</p>
 
 ---
 
-> ### <p align="center">🏆 My GitHub Achievements</p>
+> ### <p align="center">📊 Statistik & Aktivitas Coding Live</p>
 
+<p align="center">
+  <a href="https://wakatime.com/@joo_devweb">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joo_devweb&theme=radical&hide_border=true&layout=compact" alt="WakaTime"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joo-devweb&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="joo-devweb's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joo-devweb&layout=compact&theme=radical&hide_border=true" alt="Top Langs">
@@ -98,6 +95,14 @@
 
 ---
 
+> ### <p align="center">🐍 Ular Kontribusi GitHub</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joo-devweb/joo-devweb/main/dist/github-contribution-grid-snake.svg" alt="Snake contribution graph">
+</p>
+
+---
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=joo-devweb&label=Profile%20views&color=0e75b6&style=flat" alt="joo-devweb" /> 
+  <img src="https://komarev.com/ghpvc/?username=joo-devweb&label=Pengunjung%20Profil&color=0e75b6&style=flat" alt="joo-devweb" /> 
 </p>
